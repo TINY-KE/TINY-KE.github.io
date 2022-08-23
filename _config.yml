@@ -1,7 +1,7 @@
 # Site settings
 title: 张嘉东的博客
 SEOTitle: 张嘉东的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/back_title.jpeg    #post-bg-desk.jpg
 email: zhangjiadong@buaa.edu.com
 description: "PhD Condidate,  BEIHANG UNIVERSITY"
 keyword: " Zhang Jiadong, 张嘉东, SLAM, Robot"
